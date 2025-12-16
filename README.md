@@ -50,6 +50,4 @@ Goal: Identify employees at risk of leaving to support HR decision-making and im
 - Experiment with other models like Random Forest and XGBoost.  
 - Perform feature importance analysis to identify key drivers of attrition.
 
----
 
-## Repository Structure
